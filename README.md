@@ -88,7 +88,3 @@ Open your bot in Telegram and send `/start`. Choose a track, follow the roadmap,
 ## Security
 
 Never commit your `.env` file. It is excluded by `.gitignore`. If a token or key is ever exposed, revoke and regenerate it immediately.
-
-## License
-
-Add a LICENSE file and reference it here.
